@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jsonExample</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="country">country</string>
+    <string name="city">city</string>
+</resources>
